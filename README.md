@@ -1,6 +1,6 @@
-## LaTeX template & package for the EB-1A petition
+## LaTeX template & package for a complete EB-1A I-140 petition
 
-This is the LaTeX template for my EB-1A petition. See my blog-post for the timeline and on how to apply.
+This is the LaTeX template for my EB-1A I-140 petition. See my blog-post for the timeline and on how to apply.
 
 You are welcome to use this package to prepare your application. Also note that I anonymized certain parts of the application. 
 
@@ -14,10 +14,11 @@ You are welcome to use this package to prepare your application. Also note that 
 
 3. Open main.tex in the LaTeX editor, modify the template, and compile. 
 
--------------------------------------------------------
-
 
 For any questions, please raise an issue on Github.
+
+-------------------------------------------------------
+
 
 
 Razvan Marinescu
