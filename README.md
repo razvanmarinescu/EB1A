@@ -1,3 +1,5 @@
+For seeing the final pdf, see ![here](https://github.com/razvanmarinescu/EB1A/raw/master/main.pdf)
+
 ## LaTeX template & package for a complete EB-1A I-140 petition
 
 This is the LaTeX template for my EB-1A I-140 petition. See my blog-post for the timeline and on how to apply.
