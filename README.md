@@ -1,7 +1,4 @@
-
-```
-- Before using this package, read [my blogpost](https://razvanmarinescu.github.io/green-card-I-140/) and see the [final pdf](https://github.com/razvanmarinescu/EB1A/raw/master/main.pdf)
-```
+# Before using this package, read [my blogpost](https://razvanmarinescu.github.io/green-card-I-140/) and see the [final pdf](https://github.com/razvanmarinescu/EB1A/raw/master/main.pdf)
 
 ## LaTeX template & package for a complete EB-1A I-140 petition
 
